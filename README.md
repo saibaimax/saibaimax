@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
+</a>
+
 [![](https://raw.githubusercontent.com/saibaimax/saibaimax/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://komarev.com/ghpvc/?username=saibaimax&color=green)
 <!--
