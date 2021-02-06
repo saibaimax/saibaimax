@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![](https://raw.githubusercontent.com/saibaimax/saibaimax/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![](https://komarev.com/ghpvc/?username=saibaimax&color=green)
 <!--
 **saibaimax/saibaimax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
